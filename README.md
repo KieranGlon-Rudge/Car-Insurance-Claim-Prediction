@@ -12,6 +12,6 @@ This project predicts car insurance claims using a Random Forest Classifier, ach
 - **Results**: Driving experience and credit score are top predictors. Recommendations could reduce claim payouts by 10-15%.
 
 ## How to Run
-1. Clone the repo: `git clone [your-repo-url]`
+1. Clone the repo: `git clone (https://github.com/KieranGlon-Rudge/Car-Insurance-Claim-Prediction)`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook: `jupyter notebook Car_Insurance_Project.ipynb`
