@@ -7,7 +7,7 @@ This project predicts car insurance claims using a Random Forest Classifier, ach
 
 ## Key Features
 - **Data**: Car_Insurance_Claim.csv (public dataset)
-- **Tech Stack**: Python, pandas, scikit-learn, seaborn, matplotlib
+- **Tech Stack**: Python, pandas, numpy, matplotlib, seaborn, scikit-learn
 - **Steps**: Data cleaning, EDA, modeling, hyperparameter tuning, business recommendations
 - **Results**: Driving experience and credit score are top predictors. Recommendations could reduce claim payouts by 10-15%.
 
